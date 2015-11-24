@@ -17,7 +17,7 @@ Ví dụ 1 một ACL
 ACL này được khớp (matched) nếu đường dẫn người dùng request bắt đầu với /blog. Ví dụ: http://domain.com/blog/blog-entry-1
 
 Để cấu hình chi tiết ACL các bạn tham khảo tại đây
-[HAProxy Configuration Manual](http://cbonte.github.io/haproxy-dconv/configuration-1.5.html])
+[HAProxy Configuration Manual](https://cbonte.github.io/haproxy-dconv/configuration-1.5.html#7)
 
 ###Backend
 
